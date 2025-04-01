@@ -1,7 +1,7 @@
 {
     "require": {
         "danog/madelineproto": "^8",
-        "amphp/amp": "^2",
-        "amphp/http-server": "^2.1"
+        "amphp/amp": "^3",
+        "amphp/http-server": "^3.0"
     }
 }
